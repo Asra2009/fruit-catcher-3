@@ -1,2 +1,1 @@
 # fruit-catcher-3
-:)
